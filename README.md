@@ -11,11 +11,11 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 ## Lehre
 
-### Programmierkurs Julia
+### Programmierkurs Julia (FSS 2023)
 
 Siehe [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
 
-### Stochastik I
+### Stochastik I (HWS 2021)
 
 Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen.
 
