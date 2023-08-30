@@ -9,6 +9,27 @@ Hier möchte ich eine kleine (unvollständige) Übersicht zu allem Möglichen, d
 
 Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte, macht gerne ein Issue auf oder schreibt eine Mail.
 
+## Lehre
+
+### Programmierkurs Julia
+
+Siehe [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
+
+### Stochastik I
+
+Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen.
+
+YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ
+
+Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
+
+## Data science
+
+### Degustation
+
+To be explained.
+
+
 ## LaTeX und Publishing
 
 ## Beamer templates (2020)
@@ -98,23 +119,3 @@ To be explained; Fernandez-Villaverde
 https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
 
 ### Stock-flow consistent modelle (Replication und Paketentwicklung)
-
-## Lehre
-
-### Programmierkurs Julia
-
-Siehe [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
-
-### Stochastik I
-
-Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen.
-
-YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ
-
-Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
-
-## Data science
-
-### Degustation
-
-To be explained.
