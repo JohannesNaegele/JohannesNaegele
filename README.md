@@ -40,34 +40,11 @@ Oder confidential.
 
 ### Interaktive Dokumente (2020)
 
+Ausführliche Erklärung [hier](./src/interactive.md).
+
 Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
-In der Vergangenheit habe ich mich an ein paar ziemlich abgespaceten (und extrem unnötigen :D) LaTeX-Projekten versucht. Grundsätzlich hat mich immer extrem genervt, dass ich zwar statische Dokumente in LaTeX super erstellen konnte, sobald es aber mit interaktiven Elementen (z. B. Videos, Animationen, ...) sein sollte (wie etwa bei [desmos](https://learn.desmos.com/sliders) oder [GeoGebra](https://www.geogebra.org)), war das die reinste Katastrophe. Das liegt insbesondere daran, dass das PDF-Format für sich hier erhebliche Mängel mitbringt. In der Theorie ist dort nämlich einiges möglich, in der Praxis ist das aber meistens Mist, weil das dann über Adobe Flash und Shockwave etc. funktioniert. Wir erinnern uns: Bitte nicht das! In der Konsequenz funktioniert das dann (wenn überhaupt) nur mit dem Adobe PDF-Reader und nicht auf mobilen Geräten. Sprich: Man macht sich eine Riesenarbeit, nur dass das dann nachher bei der Hälfte der Leser gar nicht ankommt.
-
-Grundsätzlich kommt aber bei LaTeX noch ein weiteres Problem dazu: Was man haben wollen würde, ist ein Dokument, dass zur Runtime gesetzt wird und somit Animationen *beim Abspielen* generiert werden. Das Problem ist nur: Weil LaTeX sequentiell arbeitet und kleine Änderungen im Code weitreichende Umformatierungen zur Folge haben können, müsste dann jedesmal *das komplette Dokument* neu gesetzt werden. Wenn man aber für 25 Frames/s jedes Mal das Dokument neu generieren muss, ist das offensichtlich Quark. 
-
-Was also tun? Interessanterweise gibt es hier sehr unterschiedliche Ansätze, die alle ziemlich unterschiedlich aussehen:
-
-1.  Man ignoriert die Probleme und arbeitet weiter mit einem PDF und mit Pseudointeraktivität
-2.  Man baut einen PDF-Website-Hybrid
-3.  Man eskaliert komplett und geht auf low-level TeX-Ebene
-
-#### 1. Generische PDF-Lösung
-
-Was zur Hölle meine ich mit *Pseudointeraktivität*? Der Punkt ist: Wenn ich nicht zur Runtime rendern kann, dann muss ich "interaktive" Elemente eben vorkompilieren. D. h.: Angenommen, ich habe eine Grafik mit Slidern (Schiebereglern) für *n* verschiedene Parameter (z. B. eine Normalverteilungskurve mit μ und σ²), dann mache ich halt ein Gitter mit *n* Dimensionen und diskretisiere das Ganze. Am Ende habe ich dann z. B. 10 mögliche Werte für μ und 1000 mögliche Werte für σ². Für ein hinreichend feines Gitter bietet das also volle Funktionalität (abgesehen von sehr fortgeschrittenen Anwendungen). Am Ende macht man also einfach einen Film, bei dem jedes Frame einem bestimmen Punkt in der Animation entspricht und von dieser angesteuert werden kann. Hier kommt theoretisch noch ein Link hin, wo das dann demonstriert wird. Problematisch ist dabei aber, dass der Speicherbedarf natürlich mit der Anzahl der Möglichkeiten explodiert. Und niemand möchte ein Uniskript mit 1 GB Größe.
-
-Konkret bindet man dann bei Möglichkeit 1. den Slider (oder was auch immer) extern über das [media9](https://ctan.org/pkg/media9)-Package als .swf (Shockwave) ein. Diesen wiederum erstellt man in Adobe Flex mit einer mxml-Datei (Abfuck). Und die Animation macht man dann in LaTeX mit dem [animate](https://ctan.org/pkg/animate)-Package. Das heißt: Ich sage dem animate-Package: Generiere mir bitte 200 Frames, wobei du mir diesen counter hier erhöhst. Ich gehe dann her und bastele eine Bijektion von dem counter in meine verschiedenen Parameter, sodass also im vorigen Beispiel 10000 Frames allen Kombinationen von den 10 μ und 1000 σ² zugeordnet werden. Die Grafik selbst kann dann von einem beliebigen Package generiert werden, ich verwende immer [TikZ](https://www.ctan.org/pkg/pgf).
-
-#### 2. Hybrid-Lösung
-
-Dieser Ansatz ermöglicht vor allem, dass das Dokument mit mehr Systemen kompatibel ist. Die Idee ist, dass man sich einfach das beste aus den zwei Welten Website und PDF zusammenbastelt: Eigentlich bietet eine Website ja genau die Interaktivität, die man will, nur leider sieht sie dafür auf verschiedenen Geräten unterschiedlich aus; feine Typografie ist quasi unmöglich. Natürlich könnte man anstelle einer Website auch eine GUI-Applikation mit dem PDF verbinden, das ist allerdings weniger universell und bietet kaum Mehrwert (bis auf Offlinefunktionalität, dazu komme ich noch).
-
-...Rest fehlt noch
-
-#### 3. TeX-Lösung
-...ausführliche Beschreibung kommt auch noch, aber die Quintessenz ist einfach: Es gibt nen krassen dude namens [Doug McKenna](http://www.mathemaesthetics.com/), der hat einfach mal entspannt den kompletten TeX-Kernel neu für sich (closed-source) implementiert. Und den kann man eben in ein E-Book einbetten und dann *zur Laufzeit* Grafiken neu rendern. Im Grund genommen ist genau das der feuchte Traum eines jeden, der hochqualitativen Schriftsatz und Multimedia vereinen will. Keine Ahnung wie universell das funktioniert, aber wer mag, kann sich gerne mal dieses Hilbert-Kurven-Buch ziehen. Ist schon sehr cool.
-
-#### Videos & Grafiken
+### Videos & Grafiken
 
 - manim
 - TikZ
