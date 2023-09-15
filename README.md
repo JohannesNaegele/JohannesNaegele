@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-(This page will be hopefully translated to english some day.)
+*This page will be hopefully translated to english some day.*
 
 Hier möchte ich eine kleine (unvollständige) Übersicht zu allem Möglichen, das ich so mache, erstellen. Mittlerweile verliere ich nämlich langsam selbst manchmal den Überblick über alle GitHub-repositorys, sodass das langsam mal an der Zeit ist. Außerdem möchte ich auch gerne Links und Projekte weitergeben, die ich für cool und/oder hilfreich befinde.
 
