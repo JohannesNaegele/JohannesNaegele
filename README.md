@@ -71,7 +71,7 @@ Ich hatte mal eine Phase, in der ich in allen möglichen Programmiersprachen (u.
 
 ### E-Mails und social media
 
-Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Professoren anzuschreiben (oder zu -twittern), deren Papiere ich interessant fand. Denn aus meinem privaten Umfeld gab es kaum Menschen, mit denen ich über beispielsweise DSGE diskutieren konnte; das ist dann halt doch einfach alles zu nerdig. Letzten Endes waren da auf jeden Fall ein paar interessante Sachen dabei, die ich hier vielleicht mal hochladen werde.
+Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Professoren anzuschreiben (oder zu -twittern), deren Papiere ich interessant fand. Ein paar interessante Auszüge daraus werde ich hier vielleicht mal hochladen.
 
 ### Schefold und die Kapitalkontroverse
 
