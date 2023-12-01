@@ -57,7 +57,7 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ### Stock-flow consistent models
 
-[Hier](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl) und alter Code.
+[Hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
 
 ### Neuronale Netzwerke
 
