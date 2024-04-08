@@ -15,7 +15,7 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 ## Lehre
 
-### Programmierkurs Julia (FSS 2023)
+### Programmierkurs Julia (FSS 2023, 2024)
 
 Siehe [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
 
