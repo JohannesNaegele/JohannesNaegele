@@ -75,7 +75,7 @@ Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Profes
 
 ### Schefold und die Kapitalkontroverse
 
-Kurz zusammengefasst hab ich mal versucht eine Doktorarbeit von Zonghie Han zu replizieren (bzw. Code intelligent zu copy-pasten und bisschen rumzuspielen). Jedenfalls war die Crux, dass wenn man Technologien nicht paarweise vergleicht, sondern über alle Länder, auf einmal der einzige Fall von Reswitching verschwindet :D files folgen irgendwann noch...
+Replikationsprojekt von Han/Schefold 2006 siehe [hier](https://github.com/JohannesNaegele/Han-Schefold).
 
 ### Econ speed programming und GPU
 
