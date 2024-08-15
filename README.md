@@ -85,4 +85,8 @@ To be explained; Fernandez-Villaverde
 
 https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
 
+[Privates Repo](https://github.com/JohannesNaegele/Hellwig-1976)
+
 ### Stock-flow consistent modelle (Replication und Paketentwicklung)
+
+Siehe [hier](https://github.com/JohannesNaegele/Consistent.jl), work in progress.
