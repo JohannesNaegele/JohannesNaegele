@@ -75,7 +75,7 @@ Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Profes
 
 ### Schefold und die Kapitalkontroverse
 
-Replikationsprojekt von Han/Schefold 2006 siehe [hier](https://github.com/JohannesNaegele/Han-Schefold).
+Replikationsprojekt von [Han/Schefold 2006](https://github.com/JohannesNaegele/Han-Schefold) sowie [Zambelli 2018](https://github.com/JohannesNaegele/Zambelli-Replication).
 
 ### Econ speed programming und GPU
 
