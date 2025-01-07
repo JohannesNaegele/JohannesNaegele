@@ -70,11 +70,11 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 - manim
 - TikZ
 
-## Julia
+## Programmierung
 
-### Stock-flow consistent models (Replikation und Paketentwickling)
+### Stock-flow consistent models (Replikation und Paketentwickling in Julia)
 
-Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist.
+Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Julia-Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist.
 
 Ich bin mittlerweil ziemlich desillusioniert was die Sinnhaftigkeit dieses Modellierungsansatzes angeht. Dazu ein andermal mehr.
 
@@ -82,13 +82,17 @@ Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alt
 
 ### IfTraits.jl
 
-Dieses Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
+Dieses Julia-Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
 
-### Multi-Armed Bandits (FSS 2023)
+### Multi-Armed Bandits in Julia (FSS 2023)
 
 Während einer Einführungsveranstaltung zu Reinforcement Learning habe ich (mal wieder) viel zu viel Zeit in irrelevante Programmieraufgaben gesteckt. Zum einen wollte ich besser verstehen, wie man sinnvoll eine große Bibliothek dieser Art aufsetzt. Es ist halt schon ziemlich interessant, dass die diversen Pakete in Python oder Julia zum Teil sehr unterschiedliche Ansätze verfolgen, um Interfaces zu implementieren. In anderen Worten: Es ist nicht trivial, die MDP-Mathe in Code zu gießen. Beispielsweise: Unterscheidung zwischen Environment und Testbed, Multi-Agent-Spiele (braucht es einen Observer zwischen Env und Agent?)
 
 Zum anderen bin ich dann relativ lange an der effizienten Implementierung von Multi-Armed Bandits hängengeblieben. Auch in diesem vermeintlich rudimänteren Setting stößt man nämlich leicht an rechnerische Grenzen (etwa für eine Anzahl an Runden mit 1 Million). Dieser Code ist zum Teil echt nett und könnte in ein sinnvolles Paket gegossen werden; allerdings muss ich dafür nochmal ordentlich Zeit ins Refactoring stecken (auch weil gewisse SIMD-Pakete möglicherweise Kompatibilitätsprobleme haben) und mir über die Integration in die Julia-Paketlandschaft Gedanken machen.
+
+### CameraMagic
+
+Dies war ein völlig überambitioniertes, aber wie ich finde trotzdem interessantes, Projekt. Erklärung kommt noch; Buzzwords sind computer vision und homography estimation.
 
 ### Neuronale Netzwerke (2018)
 
