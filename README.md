@@ -17,7 +17,7 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 ### Programmierkurs Julia (FSS 2023, 2024)
 
-Siehe [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
+Über die Jahre habe ich einige Kurse zu R, Julia und Datenanalyse gehalten. Das deutschsprachige Material zum Julia-Einführungskurs findet sich [hier](https://github.com/JohannesNaegele/Programmierkurs-Julia).
 
 ### Stochastik I (HWS 2021)
 
