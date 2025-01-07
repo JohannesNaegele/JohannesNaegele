@@ -7,7 +7,7 @@
 [![](https://raw.githubusercontent.com/JohannesNaegele/JohannesNaegele/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JohannesNaegele/JohannesNaegele/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/JohannesNaegele/JohannesNaegele/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JohannesNaegele/JohannesNaegele/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-*This page will be hopefully translated to english some day.*
+*This page will hopefully be translated to English some day.*
 
 Hier möchte ich eine kleine (unvollständige) Übersicht zu allem Möglichen, das ich so mache, erstellen. Mittlerweile verliere ich nämlich langsam selbst manchmal den Überblick über alle GitHub-repositorys, sodass das langsam mal an der Zeit ist. Außerdem möchte ich auch gerne Links und Projekte weitergeben, die ich für cool und/oder hilfreich befinde.
 
@@ -58,6 +58,16 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 ### Stock-flow consistent models
 
 [Hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
+
+### IfTraits.jl
+
+Dieses Paket
+
+### Multi-Armed Bandits
+
+Während einer Einführungsveranstaltung zu Reinforcement Learning habe ich (mal wieder) viel zu viel Zeit in irrelevante Programmieraufgaben gesteckt. Zum einen wollte ich besser verstehen, wie man sinnvoll eine große Bibliothek dieser Art aufsetzt. Es ist halt schon ziemlich interessant, dass die diversen Pakete in Python oder Julia zum Teil sehr unterschiedliche Ansätze verfolgen, um Interfaces zu implementieren. In anderen Worten: Es ist nicht trivial, die MDP-Mathe in Code zu gießen. Beispielsweise: Unterscheidung zwischen Environment und Testbed, Multi-Agent-Spiele (braucht es einen Observer zwischen Env und Agent?)
+
+Zum anderen bin ich dann relativ lange an der effizienten Implementierung von Multi-Armed Bandits hängengeblieben. Auch in diesem vermeintlich rudimänteren Setting stößt man nämlich leicht an rechnerische Grenzen (etwa für eine Anzahl an Runden mit 1 Million). Dieser Code ist zum Teil echt nett und könnte in ein sinnvolles Paket gegossen werden; allerdings muss ich dafür nochmal ordentlich Zeit ins Refactoring stecken (auch weil gewisse SIMD-Pakete möglicherweise Kompatibilitätsprobleme haben) und mir über die Integration in die Julia-Paketlandschaft Gedanken machen.
 
 ### Neuronale Netzwerke
 
