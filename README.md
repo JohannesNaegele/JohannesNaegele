@@ -33,6 +33,14 @@ Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
 Hier ging es darum, die Berechnung genetischer Verwandtschaftsmatrixen mittels GPUs zu beschleunigen. Insbesondere ging es um 1-Bit-Matrixmultiplikation ab der Turing-Generation in Verbindung mit Cutlass. Der Code findet sich [hier](https://github.com/JohannesNaegele/miraculix-BA). Demnächst wird dazu ein verbesserter (nicht-naiver) Tiling-Algorithmus implementiert.
 
+### Seminar Adaptives MCMC
+
+Ganz nette Slides (forthcoming).
+
+### Seminar zu Energienetzen
+
+Tatsächlich kam hierbei wenig Gehaltvolles bei rum (und ich habe immer noch nicht verstanden, wie genau powerflow equations funktionieren). Allerdings habe ich mittlerweile eine ganz gute Ahnung, wie Energienetzmodelle mit PyPSA und Datenbanksystem umgesetzt werden; außerdem bin ich der Überzeugung, dass eine Integration von Wetter- und Energienetzmodellen in Konjunkturmodelle gewinnbringend wäre (work in progress).
+
 ## Data science
 
 ### Degustation
