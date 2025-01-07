@@ -112,7 +112,7 @@ Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Profes
 
 Replikationsprojekt von [Han/Schefold 2006](https://github.com/JohannesNaegele/Han-Schefold) sowie [Zambelli 2018](https://github.com/JohannesNaegele/Zambelli-Replication).
 
-Eventuell folgt ein Monsterprojekt, nämlicheine Videoreihe mit manim zur Kapitaltheorie. Wird aber gigantisch viel Zeit beanspruchen.
+Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapitaltheorie. Wird aber gigantisch viel Zeit beanspruchen.
 
 ### Econ speed programming und GPU
 
