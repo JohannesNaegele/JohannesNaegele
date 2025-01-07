@@ -60,7 +60,9 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ### Stock-flow consistent models
 
-[Hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
+Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller (was für viele, aber nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. 
+
+Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
 
 ### IfTraits.jl
 
