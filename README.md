@@ -31,8 +31,7 @@ Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
 ### Degustation
 
-To be explained.
-
+Seit einiger Zeit sammle ich Daten zu (Specialty) Coffee Brews. Ob man daraus was lernen kann, wird sich noch rausstellen :D
 
 ## LaTeX und Publishing
 
