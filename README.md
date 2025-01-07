@@ -61,7 +61,7 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ### IfTraits.jl
 
-Dieses Paket
+Dieses Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
 
 ### Multi-Armed Bandits
 
