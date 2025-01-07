@@ -35,7 +35,7 @@ Seit einiger Zeit sammle ich ausgiebig Daten zu (Specialty) Coffee Brews. Ob man
 
 ## LaTeX und Publishing
 
-## Garamond-Math
+## Garamond-Math (2024)
 
 Ich bin ein großer Fan der Schriftart Garamond. Wie sich rausstellt, gibt es dafür keine bzw. nur ziemlich primitive Mathe-Fonts. Deshalb habe ich mich mal daran gesetzt, an einer bestehenden Font weiter zu schrauben. Das ist aber alles noch nicht produktionsreif und wird noch einige Stunden brauchen. Manches ist schon recht hübsch, anderes ist noch ziemlicher Pfusch (vor allem die Glyphen für small size).
 
@@ -60,7 +60,7 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ### Stock-flow consistent models
 
-Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller (was für viele, aber nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. 
+Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist.
 
 Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
 
@@ -76,7 +76,7 @@ Zum anderen bin ich dann relativ lange an der effizienten Implementierung von Mu
 
 ### Neuronale Netzwerke (2018)
 
-Ich hatte mal eine Phase, in der ich in allen möglichen Programmiersprachen (u. a. Julia) einfache deep neural networks implementiert habe. Einfach deswegen, weil ein Klassenkamerad aus irgendeinem Grund mega in NNs reingenerdet war (was ich cool fand) und ich programmieren lernen wollte. Ich werde die files irgendwann mal rauskramen, vielleicht findet die ja jemand nützlich...
+Ich hatte mal eine Phase, in der ich in allen möglichen Programmiersprachen (u. a. Julia) einfache deep neural networks implementiert habe. Einfach deswegen, weil ein Klassenkamerad sich aus irgendeinem Grund mega in NNs reingenerdet hatte (was ich cool fand) und ich programmieren lernen wollte. Ich werde die files irgendwann mal rauskramen, vielleicht findet die ja jemand nützlich...
 
 ## VWL-Projekte
 
