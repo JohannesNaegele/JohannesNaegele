@@ -33,6 +33,10 @@ Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
 Hier ging es darum, die Berechnung genetischer Verwandtschaftsmatrixen mittels GPUs zu beschleunigen. Insbesondere ging es um 1-Bit-Matrixmultiplikation ab der Turing-Generation in Verbindung mit Cutlass. Der Code findet sich [hier](https://github.com/JohannesNaegele/miraculix-BA). Demnächst wird dazu ein verbesserter (nicht-naiver) Tiling-Algorithmus implementiert.
 
+### Masterarbeit
+
+Hier wird es wahrscheinlich um Econophysics gehen, insbesondere wealth-tails.
+
 ### Seminar Adaptives MCMC
 
 Ganz nette Slides (forthcoming).
