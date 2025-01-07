@@ -31,9 +31,13 @@ Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
 ### Degustation
 
-Seit einiger Zeit sammle ich Daten zu (Specialty) Coffee Brews. Ob man daraus was lernen kann, wird sich noch rausstellen :D
+Seit einiger Zeit sammle ich ausgiebig Daten zu (Specialty) Coffee Brews. Ob man daraus was lernen kann, wird sich noch rausstellen :D
 
 ## LaTeX und Publishing
+
+## Garamond-Math
+
+Ich bin ein großer Fan der Schriftart Garamond. Wie sich rausstellt, gibt es dafür keine bzw. nur ziemlich primitive Mathe-Fonts. Deshalb habe ich mich mal daran gesetzt, an einer bestehenden Font weiter zu schrauben. Das ist aber alles noch nicht produktionsreif und wird noch einige Stunden brauchen. Manches ist schon recht hübsch, anderes ist noch ziemlicher Pfusch (vor allem die Glyphen für small size).
 
 ## Beamer templates (2020)
 
