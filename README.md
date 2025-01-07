@@ -27,7 +27,7 @@ YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84
 
 Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
-## Abschlussarbeiten
+## Abschluss- und Seminararbeiten
 
 ### Bachelorarbeit
 
@@ -90,7 +90,7 @@ Ich hatte mal eine Phase, in der ich in allen möglichen Programmiersprachen (u.
 
 ### Helmedag und Arbeitszeitverkürzung (2017)
 
-[Ausführliche Erklärung](./src/azv.md)
+Ein Projekt aus Schulzeiten, hier die [ausführliche Erklärung](./src/azv.md).
 
 ### E-Mails und social media
 
