@@ -27,6 +27,12 @@ YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84
 
 Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
+## Abschlussarbeiten
+
+### Bachelorarbeit
+
+Hier ging es darum, die Berechnung genetischer Verwandtschaftsmatrixen mittels GPUs zu beschleunigen. Insbesondere ging es um 1-Bit-Matrixmultiplikation ab der Turing-Generation in Verbindung mit Cutlass. Der Code findet sich [hier](https://github.com/JohannesNaegele/miraculix-BA). Demnächst wird dazu ein verbesserter (nicht-naiver) Tiling-Algorithmus implementiert.
+
 ## Data science
 
 ### Degustation
@@ -58,9 +64,11 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ## Julia
 
-### Stock-flow consistent models
+### Stock-flow consistent models (Replikation und Paketentwickling)
 
 Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist.
+
+Ich bin mittlerweil ziemlich desillusioniert was die Sinnhaftigkeit dieses Modellierungsansatzes angeht. Dazu ein andermal mehr.
 
 Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
 
@@ -102,6 +110,6 @@ https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
 
 [Privates Repo](https://github.com/JohannesNaegele/Hellwig-1976)
 
-### Stock-flow consistent modelle (Replication und Paketentwicklung)
+### Mean-field games (Replikation: Tankov)
 
-Siehe [hier](https://github.com/JohannesNaegele/Consistent.jl), work in progress.
+To be explained.
