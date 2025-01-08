@@ -130,4 +130,4 @@ https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
 
 ### Mean-field games (Replikation: Tankov)
 
-To be explained.
+To be explained; [here](https://github.com/JohannesNaegele/MeanFieldSim.jl) the code.
