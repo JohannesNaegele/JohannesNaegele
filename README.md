@@ -21,7 +21,7 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 ### Stochastik I (HWS 2021)
 
-Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen.
+Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen. [Interner Link](https://github.com/JohannesNaegele/Stochastik1) zum Legacy-Repo.
 
 YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ
 
@@ -78,7 +78,7 @@ Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
 
 ### Stock-flow consistent models (Replikation und Paketentwickling in Julia)
 
-Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Julia-Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist.
+Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Julia-Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen. Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist. Das ist btw auch interessant, weil sich natürlich die Dynare-Julia-Implementierungen mit ähnlichen Fragen befassen müssen.
 
 Ich bin mittlerweil ziemlich desillusioniert was die Sinnhaftigkeit dieses Modellierungsansatzes angeht. Dazu ein andermal mehr.
 
@@ -118,8 +118,9 @@ Replikationsprojekt von [Han/Schefold 2006](https://github.com/JohannesNaegele/H
 
 Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapitaltheorie. Wird aber gigantisch viel Zeit beanspruchen.
 
-### Econ speed programming und GPU
+### Econ speed programming, GPU, Particle Filter
 
+Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere SMC-Filter).
 To be explained; Fernandez-Villaverde
 
 ### Hellwig (Landargument und Dezentraler Tausch)
@@ -131,3 +132,7 @@ https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
 ### Mean-field games (Replikation: Tankov)
 
 To be explained; [here](https://github.com/JohannesNaegele/MeanFieldSim.jl) the code.
+
+## Sonstiger Quatsch
+
+Hier ein (mittlerweile veraltetes) [Musik-Ranking](https://github.com/JohannesNaegele/Best-of-Genre).
