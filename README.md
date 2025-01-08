@@ -120,7 +120,7 @@ Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapit
 
 ### Econ speed programming, GPU, Particle Filter
 
-Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere [SMC-Filter](https://github.com/JohannesNaegele/Toy-SMC)).
+Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere [SMC-Filter](https://github.com/JohannesNaegele/Toy-SMC)). [Das hier](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) war damals ein cooles, instruktives Repo.
 To be explained; Fernandez-Villaverde
 
 ### Hellwig (Landargument und Dezentraler Tausch)
