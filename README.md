@@ -21,7 +21,7 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 ### Stochastik I (HWS 2021)
 
-Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen. [Interner Link](https://github.com/JohannesNaegele/Stochastik1) zum Legacy-Repo.
+Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen. Interne Links zum [Legacy-Skript-Repo](https://github.com/JohannesNaegele/Stochastik1) und zum [YouTube-Animationen-Repo](https://github.com/JohannesNaegele/Videos_Stochastik/tree/master/Stochastik).
 
 YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ
 
@@ -61,13 +61,13 @@ Ich bin ein großer Fan der Schriftart Garamond. Wie sich rausstellt, gibt es da
 
 https://github.com/JohannesNaegele/Beamer/blob/master/Template.pdf
 
-Oder confidential.
+Oder [confidential](https://github.com/JohannesNaegele/Mannheim-template).
 
 ### Interaktive Dokumente (2020)
 
 Ausführliche Erklärung [hier](./src/interactive.md).
 
-Siehe https://github.com/JohannesNaegele/pdf.js-precompiled
+Siehe [hier](https://github.com/JohannesNaegele/pdf.js-precompiled) und [hier](https://github.com/JohannesNaegele/Interactive-PDF).
 
 ### Videos & Grafiken
 
@@ -120,7 +120,7 @@ Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapit
 
 ### Econ speed programming, GPU, Particle Filter
 
-Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere SMC-Filter).
+Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere [SMC-Filter](https://github.com/JohannesNaegele/Toy-SMC)).
 To be explained; Fernandez-Villaverde
 
 ### Hellwig (Landargument und Dezentraler Tausch)
