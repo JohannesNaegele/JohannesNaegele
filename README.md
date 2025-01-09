@@ -73,7 +73,7 @@ Zum anderen bin ich dann relativ lange an der effizienten Implementierung von Mu
 
 ### CameraMagic (2019)
 
-Dies war ein völlig überambitioniertes, aber wie ich finde trotzdem interessantes, Projekt. Erklärung kommt noch; Buzzwords sind computer vision und homography estimation.
+Dies war ein völlig überambitioniertes, aber wie ich finde trotzdem interessantes, Projekt (ich sag nur: Seilzuggeber!). Erklärung kommt noch; Buzzwords sind computer vision und homography estimation.
 
 ### Neuronale Netzwerke (2018)
 
