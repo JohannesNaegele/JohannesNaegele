@@ -23,9 +23,7 @@ Falls jemand etwas interessant findet und/oder mehr Informationen haben möchte,
 
 Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigstens gestalterisch einiges beigesteuert (Videoschnitt, Grafiken, etc.). Die Vorlesung ist cool; jedem der Interesse an einer sauberen maßtheoretischen Einführung in die Stochastik hat, kann ich sie nur empfehlen. Interne Links zum [Legacy-Skript-Repo](https://github.com/JohannesNaegele/Stochastik1) und zum [YouTube-Animationen-Repo](https://github.com/JohannesNaegele/Videos_Stochastik/tree/master/Stochastik).
 
-YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ
-
-Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
+[YouTube-Playlist](https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ) und [Website](https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/)
 
 ## Abschluss- und sonstige Uniarbeiten
 
