@@ -39,7 +39,11 @@ Hier wird es wahrscheinlich um Econophysics gehen, insbesondere wealth-tails.
 
 ### Seminar Adaptives MCMC
 
-Ganz nette Slides (forthcoming).
+Ganz nette [Slides](https://github.com/JohannesNaegele/JohannesNaegele/blob/main/src/presentation.pdf).
+
+### Seminar Transformer
+
+Ebenfalls nette Slides, aber ohne Erklärung nicht wirklich hilfreich. Deshalb [intern](https://github.com/JohannesNaegele/Transformer-Seminar/tree/main/presentation).
 
 ### Seminar zu Energienetzen
 
