@@ -80,7 +80,7 @@ Siehe [hier](https://github.com/JohannesNaegele/pdf.js-precompiled) und [hier](h
 
 ## Programmierung
 
-### Stock-flow consistent models (Replikation und Paketentwickling in Julia)
+### Stock-flow consistent models (Replikation und Paketentwicklung in Julia)
 
 Ein sträflich vernachlässigtes Projekt ist die Implementierung einer Julia-Bibliothek für SFC models. Die Idee war: Julia ist grundsätzlich schneller als R (was für viele, aber längst nicht alle Anwendungen egal ist). Außerdem sind Autodiff-Fähigkeiten und die dazugehörige Paketlandschaft relevant. Das ist alles relevant für Parameterkalibrierung, Modelinitialisierung und stochastische Modifikationen (Adjoint Methods, auch etwa bayesianische Kalibrierung). Ich bin mir aber noch nicht ganz im Klaren darüber, ob die Paket-API und -Syntax aktuell gut ist. Das ist btw auch interessant, weil sich natürlich die Dynare-Julia-Implementierungen mit ähnlichen Fragen befassen müssen.
 
