@@ -27,7 +27,7 @@ YouTube-Playlist: https://youtube.com/playlist?list=PLy5qRKPWp6SBwfc1kn-b66cWc84
 
 Website: https://www.wim.uni-mannheim.de/doering/teaching/hws21/stochastik-1/
 
-## Abschluss- und Seminararbeiten
+## Abschluss- und sonstige Uniarbeiten
 
 ### Bachelorarbeit
 
@@ -48,6 +48,10 @@ Ebenfalls nette Slides, aber ohne Erklärung nicht wirklich hilfreich. Deshalb [
 ### Seminar zu Energienetzen
 
 Tatsächlich kam hierbei wenig Gehaltvolles bei rum (und ich habe immer noch nicht verstanden, wie genau powerflow equations funktionieren). Allerdings habe ich mittlerweile eine ganz gute Ahnung, wie Energienetzmodelle mit PyPSA und Datenbanksystem umgesetzt werden; außerdem bin ich der Überzeugung, dass eine Integration von Wetter- und Energienetzmodellen in Konjunkturmodelle gewinnbringend wäre (work in progress).
+
+### Klimavorlesung
+
+[Hier](https://github.com/JohannesNaegele/MaKli.jl) ein paar nette Grafiken zu einer Klimamodellierungsvorlesung, die aber zum Teil etwas Kontext benötigen.
 
 ## Data science
 
@@ -98,7 +102,7 @@ Während einer Einführungsveranstaltung zu Reinforcement Learning habe ich (mal
 
 Zum anderen bin ich dann relativ lange an der effizienten Implementierung von Multi-Armed Bandits hängengeblieben. Auch in diesem vermeintlich rudimänteren Setting stößt man nämlich leicht an rechnerische Grenzen (etwa für eine Anzahl an Runden mit 1 Million). Dieser Code ist zum Teil echt nett und könnte in ein sinnvolles Paket gegossen werden; allerdings muss ich dafür nochmal ordentlich Zeit ins Refactoring stecken (auch weil gewisse SIMD-Pakete möglicherweise Kompatibilitätsprobleme haben) und mir über die Integration in die Julia-Paketlandschaft Gedanken machen.
 
-### CameraMagic
+### CameraMagic (2019)
 
 Dies war ein völlig überambitioniertes, aber wie ich finde trotzdem interessantes, Projekt. Erklärung kommt noch; Buzzwords sind computer vision und homography estimation.
 
@@ -118,7 +122,7 @@ Am Ende meiner Schullaufbahn habe ich irgendwann angefangen, regelmäßig Profes
 
 ### Schefold und die Kapitalkontroverse
 
-Replikationsprojekt von [Han/Schefold 2006](https://github.com/JohannesNaegele/Han-Schefold) sowie [Zambelli 2018](https://github.com/JohannesNaegele/Zambelli-Replication).
+Replikationsprojekt von [Han/Schefold 2006](https://github.com/JohannesNaegele/Han-Schefold) sowie [Zambelli 2018](https://github.com/JohannesNaegele/Zambelli-Replication) basierend auf meinem Paket [Sraffa.jl](https://github.com/JohannesNaegele/Sraffa.jl).
 
 Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapitaltheorie. Wird aber gigantisch viel Zeit beanspruchen.
 
