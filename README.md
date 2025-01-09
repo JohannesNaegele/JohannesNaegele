@@ -94,7 +94,7 @@ Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alt
 
 ### IfTraits.jl
 
-Dieses Julia-Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
+[Dieses](https://github.com/JohannesNaegele/IfTraits.jl) Julia-Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
 
 ### Multi-Armed Bandits in Julia (FSS 2023)
 
@@ -128,7 +128,7 @@ Eventuell folgt ein Monsterprojekt, nämlich eine Videoreihe mit manim zur Kapit
 
 ### Econ speed programming, GPU, Particle Filter
 
-Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien (zum Bespiele [diese](https://github.com/davidzarruk/Parallel_Computing/pull/4) PR. Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere [SMC-Filter](https://github.com/JohannesNaegele/Toy-SMC)). [Das hier](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) war damals ein cooles, instruktives Repo.
+Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. und hatte da ein paar Spielereien (zum Bespiele [diese](https://github.com/davidzarruk/Parallel_Computing/pull/4) PR). Das meiste davon wird aber niemandem nützen und sollte komplett neu aufgerollt werden (insbesondere [SMC-Filter](https://github.com/JohannesNaegele/Toy-SMC)). [Das hier](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) war damals ein cooles, instruktives Repo.
 
 ### Hellwig (Landargument und Dezentraler Tausch)
 
