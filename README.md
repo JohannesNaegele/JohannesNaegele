@@ -101,9 +101,7 @@ Ich bin nach wie vor großer Fan der Arbeiten von Fernandez-Villaverde et al. un
 
 ### Hellwig (Landargument und Dezentraler Tausch)
 
-https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/
-
-[Privates Repo](https://github.com/JohannesNaegele/Hellwig-1976)
+Ich habe mich teils rudimentär und teils tief mit einigen Resultaten von und mit Martin Hellwig beschäftigt. Zu ersterem gehört beispielsweise die große (und vorrangig deutsche) Weizsäcker-Homburg-Diskussion um die Relevanz der Landwerte für dynamische Ineffizienz. [Hier](https://blogs.faz.net/fazit/2020/05/03/streit-um-die-schulden-11340/amp/) eine nette Einführung von Gerald Braunberger (recht unterhaltsam ist sowieso, wie [Homburg](https://homepage.coll.mpg.de/pdf_dat/2020_07online.pdf) dort und an anderen Stellen zerlegt wird). Zu letzterem gehört das Modell aus Hellwig 1976, das sich mit Dezentralen Geldmärkten auseinandersetzt ([Privates Repo](https://github.com/JohannesNaegele/Hellwig-1976), bei Interesse gerne melden!). Obzwar ich da einige Ideen habe, bin ich bei dem ungelösten Problem (Existenzsatz) auch nicht weiter gekommen.
 
 ### Mean-field games (Replikation: Tankov)
 
