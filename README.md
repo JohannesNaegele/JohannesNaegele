@@ -61,7 +61,7 @@ Ich bin mittlerweil ziemlich desillusioniert was die Sinnhaftigkeit dieses Model
 
 Aktueller Code [hier](https://github.com/JohannesNaegele/Consistent.jl) und [alter Code](https://github.com/JohannesNaegele/StockFlowConsistentCore.jl).
 
-### IfTraits.jl
+### IfTraits.jl (2023)
 
 [Dieses](https://github.com/JohannesNaegele/IfTraits.jl) Julia-Paket implementiert eine bestimmte Syntax für das Design Pattern *Traits* in Julia. Ich bin mir nicht sicher, ob man das in dieser Art überhaupt will und ob diese Umsetzung nicht sowieso ein Problem löst, dass es gar nicht gibt. Naja. Jedenfalls funktioniert's und war auch eine nette Übung, um mal den ganzen Workflow Richtung Julia-registry zu lernen.
 
@@ -117,11 +117,11 @@ Seit einiger Zeit sammle ich ausgiebig Daten zu (Specialty) Coffee Brews. Ob man
 
 ## LaTeX und Publishing
 
-## Garamond-Math (2024)
+### Garamond-Math (2024)
 
 Ich bin ein großer Fan der Schriftart Garamond. Wie sich rausstellt, gibt es dafür keine bzw. nur ziemlich primitive Mathe-Fonts. Deshalb habe ich mich mal daran gesetzt, an einer bestehenden Font weiter zu schrauben. Das ist aber alles noch nicht produktionsreif und wird noch einige Stunden brauchen. Manches ist schon recht hübsch, anderes ist noch ziemlicher Pfusch (vor allem die Glyphen für small size).
 
-## Beamer templates (2020)
+### Beamer templates (2020)
 
 Hier ein eher mäßig guter [Versuch](https://github.com/JohannesNaegele/Beamer/blob/master/Template.pdf).
 
