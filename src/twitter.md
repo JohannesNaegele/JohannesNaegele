@@ -4,11 +4,22 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 
 - [Buchempfehlungen](https://x.com/ArashMV/status/1255440537752043528)
 - [Spatial economics](https://x.com/amine_ouazad/status/1874217755106566306)
+- [Rutger Bregman zu de-growth](https://x.com/rcbregman/status/1831227421896356126)
+- [Ben Moll zu Besteuerung von realized capital gains](https://x.com/ben_moll/status/1830505624649519494)
+- [Diskussion zum Zusammenhang zwischen Staatsausgaben und Inflation](https://x.com/BachmannRudi/status/1823457235563110894)
+- [The Solow/neoclassical model is overrated *for explaining catch-up growth and convergence](https://x.com/BasilHalperin/status/1811058315008295134)
+
+## Klimawandel
+
+- [Historie der Leugnung und Verharmlosung des Klimawandels](https://x.com/Stefan_Hajek/status/1428772355678130183)
 
 ## Other science stuff
 - [Strogatz: asymptotics and perturbation methods](https://x.com/stevenstrogatz/status/1827061743417430153)
 - [gcc removes checks](https://x.com/effectfully/status/1875750109029564436)
 - [Historischer Kern des Nibelungenlieds](https://x.com/ThomasWalach/status/1874104603715002618)
+- [Proof that Tolkien's Middle-Earth is not flat](https://x.com/fermatslibrary/status/1831287013233877215)
 
 ## Politk
 - [Jung, akademisch, antisemitisch? Studie Uni Mannheim](https://x.com/0331gabriel/status/1844280479400464405)
+- [AFD und ländliche Regionen](https://x.com/Julius_Ktxt/status/1870072058593378636)
+- [Ostdeutsche Seele zwischen Trauma und Selbstbetrug](https://x.com/gripfeli/status/1824369623707295757)
