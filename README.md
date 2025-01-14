@@ -138,4 +138,5 @@ Intern [hier](https://github.com/JohannesNaegele/pdf.js-precompiled) und [hier](
 
 ## Sonstiger Quatsch
 
+Meine [Twitter-Lesezeichen](https://github.com/JohannesNaegele/JohannesNaegele/blob/main/src/twitter.md) mit Kurzbeschreibung.
 Hier ein (mittlerweile veraltetes) [Musik-Ranking](https://github.com/JohannesNaegele/Best-of-Genre).
