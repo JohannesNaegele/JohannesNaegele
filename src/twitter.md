@@ -16,6 +16,8 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 - [Gewonnene Wein-Wette](https://x.com/JohannesNaegele/status/1197808329243930625)
 - [Christian Bayer zu Capital Theory Paradoxes: Anything Goes](https://x.com/christianbaye13/status/1307628587995090946)
 - [Lütticke mit Code zu Krusell-Smith model](https://x.com/RalphLuet/status/1300781629443637249)
+- [Schularick: Loose monetary policy sows the seeds of future financial instability](https://x.com/MSchularick/status/1625518624441270274)
+- [Deutsche Inflationspropheten](https://x.com/HrReisen/status/1288104060738924545)
 
 ## Klimawandel
 
