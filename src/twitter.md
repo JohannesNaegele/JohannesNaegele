@@ -20,6 +20,7 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 - [Deutsche Inflationspropheten](https://x.com/HrReisen/status/1288104060738924545)
 - [Peter Hull: Grad applied metrics course](https://x.com/instrumenthull/status/1642127482462654464)
 - [Macroeconomic models with financial frictions](https://x.com/td_econ/status/1749800414793646311)
+- [Ghironi on the genesis](https://x.com/FabioGhironi/status/1538572330108014593) of the paper International Trade and Macroeconomic Dynamics with Heterogeneous Firms.
 
 ## Klimawandel
 
