@@ -10,10 +10,15 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 - [The Solow/neoclassical model is overrated *for explaining catch-up growth and convergence](https://x.com/BasilHalperin/status/1811058315008295134)
 - [Robust Real Rate Rules](https://x.com/t_holden/status/1808512976451780961)
 - [Frage zu endogenen Produktionsfunktionen](https://x.com/_LukasFreund_/status/1779182333628645584)
+- [Kommentar zu CCvW/Landargument](https://x.com/JohannesNaegele/status/1257041452259069956)
+- [Dito](https://x.com/ArashMV/status/1256934771768340480)
+- [DSGE Bachelor thesis topics](https://x.com/JohannesNaegele/status/1248002459802337281)
+- [Gewonnene Wein-Wette](https://x.com/JohannesNaegele/status/1197808329243930625)
 
 ## Klimawandel
 
 - [Historie der Leugnung und Verharmlosung des Klimawandels](https://x.com/Stefan_Hajek/status/1428772355678130183)
+- [Grönland Unfug](https://x.com/kevpluck/status/1222902802667540482)
 
 ## Other science stuff
 - [Strogatz: asymptotics and perturbation methods](https://x.com/stevenstrogatz/status/1827061743417430153)
