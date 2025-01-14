@@ -30,6 +30,7 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 - [Historischer Kern des Nibelungenlieds](https://x.com/ThomasWalach/status/1874104603715002618)
 - [Proof that Tolkien's Middle-Earth is not flat](https://x.com/fermatslibrary/status/1831287013233877215)
 - [Systems Medicine Buch](https://x.com/patrickc/status/1771710576500322665)
+- [Quantum mechanics is just thermodynamics in imaginary time](https://x.com/getjonwithit/status/1812573074363183494)
 
 ## Politk
 - [Jung, akademisch, antisemitisch? Studie Uni Mannheim](https://x.com/0331gabriel/status/1844280479400464405)
