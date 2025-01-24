@@ -114,7 +114,8 @@ To be explained; [here](https://github.com/JohannesNaegele/MeanFieldSim.jl) the 
 Seit einiger Zeit sammle ich ausgiebig Daten zu (Specialty) Coffee Brews. Ob man daraus was lernen kann, wird sich noch rausstellen :D
 
 Als kleiner Appetizer:
-<img src="src/wheelchart.svg">
+
+<img src="src/wheelchart.svg" style="width:700px;">
 
 ## LaTeX und Publishing
 
