@@ -29,7 +29,7 @@ Immerhin hab ich hier wenn schon nicht mega viel inhaltlich, dann doch wenigsten
 
 ### Bachelorarbeit
 
-Hier ging es darum, die Berechnung genetischer Verwandtschaftsmatrixen mittels GPUs zu beschleunigen. Insbesondere ging es um 1-Bit-Matrixmultiplikation ab der Turing-Generation in Verbindung mit Cutlass. Der Code findet sich [hier](https://github.com/JohannesNaegele/miraculix-BA). Demnächst wird dazu ein verbesserter (nicht-naiver) Tiling-Algorithmus implementiert.
+Hier ging es darum, die Berechnung genetischer Verwandtschaftsmatrixen mittels GPUs zu beschleunigen. Insbesondere ging es um 1-Bit-Matrixmultiplikation ab der Ampere-Generation in Verbindung mit Cutlass. Der Code findet sich [hier](https://github.com/JohannesNaegele/miraculix-BA). Demnächst wird dazu ein verbesserter (nicht-naiver) Tiling-Algorithmus implementiert.
 
 ### Masterarbeit
 
