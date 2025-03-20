@@ -39,7 +39,7 @@ Hier möchte ich meine Twitter-Lesezeichen kategorisieren.
 - [Systems Medicine Buch](https://x.com/patrickc/status/1771710576500322665)
 - [Quantum mechanics is just thermodynamics in imaginary time](https://x.com/getjonwithit/status/1812573074363183494)
 
-## Politk
+## Politik
 - [Jung, akademisch, antisemitisch? Studie Uni Mannheim](https://x.com/0331gabriel/status/1844280479400464405)
 - [AFD und ländliche Regionen](https://x.com/Julius_Ktxt/status/1870072058593378636)
 - [Ostdeutsche Seele zwischen Trauma und Selbstbetrug](https://x.com/gripfeli/status/1824369623707295757)
